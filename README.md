@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-__I'm Dave__
+I'm 
+```
+                     ________        _________                         ___________          _________
+                    |        |      |         |       \      /              |              |         |
+                    |        |      |_________|        \    /               |              |         |
+                    |        |      |         |         \  /                |              |         |
+                    |________|      |         |          \/            ____ | ____         |_________|
+
+```
+
+
+    I love coding!
+
 
 
 - 🔭 I’m currently working on building my personal portfolio.
@@ -31,9 +43,8 @@ __I'm Dave__
         - Python and django
         - Database
 - 📫 How to reach me: 
-    - <a href='https://www.twitter.com/_David_Conteh' style="background-color:lightblue; padding: 10px 8px; width: 80px; height: 10px">Twitter</a>
-    - <a href='https://www.instagram.com/davidconteh584' style="background-color:brown; padding: 10px 8px; width: 80px; height: 10px">Instagram</a>
-    - <a style="background-color:blue; padding: 10px 8px;">Whatsaap __ +232 88 224811</a>
+    <a href='https://www.twitter.com/_David_Conteh' style="background-color:lightblue; padding: 10px 8px; width: 80px; height: 10px"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" style="height:50px; width: 80px;"></a>
+    <a href='https://www.instagram.com/davidconteh584' style="background-color:brown; padding: 10px 8px; width: 80px; height: 10px"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShdkhPa3jvnkHpD3l8i7Ht5pFEwlIWgk9qicKe8s4&s" style="height:50px; width: 50px;"></a>
 - 😄 Pronouns: He
 - ⚡ Fun fact: My twin brother is way taller than me. Whenever we are out in public people thinks he is the eldest. Another thing is that we don't look alike.
 -->
