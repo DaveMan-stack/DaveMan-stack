@@ -1,111 +1,39 @@
 ### Hi there 👋
 
-# Markdown plus html syntax
-
-## Bold and italic text
-~~This is a **bold** text~~
-***bold and nested _italic_***
-## strong and emphasis 
-<strong>heading</strong>
-<em>heading</em>
-
-## superscript subscript
-15<sup>th</sup>
-155<sub>21</sub>
+__I'm Dave__
 
 
-## Quoted text
-
-> Text that is a quote Text that is a quote Text that is a quote Text that is a quote
-
-## Quoted Code
-
-```
-django-admin startproject myapp
-
-python manage.py makemigrations
-
-python manage.py runserver 8000
-
-```
-
-
-The background color should be `#0d1117`
-
-## Links
-
-### Relative links
-This is my _Github Page_ [DaveMan-stack]('https://www.github.com/DaveMan-stack')
-
-
-### Linking in/displaying images
-
-![img2](https://user-images.githubusercontent.com/75188279/217598157-6d61245c-0c1a-4fb2-a173-0fd98b80c5f7.jpg)
-
-
-### Linking images with picture tags
-
-
-
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="img1.jpg">
-    <img alt="just some img description">
-</picture>
-
-## Lists
-* George Washinton
-- George Washinton
-+ George Washinton
-
-### <ul>Numbering list</ul>
-1. James Madison
-
-### Nested List
-1. First Line
-   - Second line
-     - Third line
-
-## Task List
-   - ### Programming I know
-     - [x] \(python)
-     - [x] javascript
-     - [ ] c++
-
-
-## Mention
-
-@github/support check this out
-
-## Paragraphs
-
-some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text
-
-some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text some dommy text
-
-## Footnotes
-
-This is a sample footnote[^sample1]
-
-This is another sample footnote[^sample2]
-
-This is the third sample footnote[^additional-info]
-
-[^sample1]: This is sample footnote one.
-
-[^sample2]: This is sample footnote two.
-
-[^additional-info]: This is sample footnote that contains some very few notes.
-<!--
-**DaveMan-stack/DaveMan-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on building my personal portfolio.
+    I mean like a personal website where i can show case my skills. I'm also working on building my social media handles.
+- 🌱 I’m currently learning Full stack development
+    I've already completed the following
+    - python and django for the backend
+    - js for the frontend
+    - html and css
+    - version control
+    
+- 👯 I’m looking to collaborate on Frontend project.
+    - pure html and css
+    - venilla javascript
+- 🤔 I’m looking for help with integrating cool animations into a website.
+  
+        like the one on ![google photos]('https://www.google.com/photos')
+        and on ![github home page]('https://www.github.com')
+        those websites looks facinating. I really admire those developer that could have developed such a design. 
+        If your're one of those developer please don't hesitate to get in touch.
+  
+- 💬 Ask me about 
+    - Frontend stuff.
+        - Javascript
+        - Html and css
+        - Version Control_git and github.
+    - Backend stuff.
+        - Python and django
+        - Database
+- 📫 How to reach me: 
+    - <a href='https://www.twitter.com/_David_Conteh' style="background-color:lightblue; padding: 10px 8px; width: 80px; height: 10px">Twitter</a>
+    - <a href='https://www.instagram.com/davidconteh584' style="background-color:brown; padding: 10px 8px; width: 80px; height: 10px">Instagram</a>
+    - <a style="background-color:blue; padding: 10px 8px;">Whatsaap __ +232 88 224811</a>
+- 😄 Pronouns: He
+- ⚡ Fun fact: My twin brother is way taller than me. Whenever we are out in public people thinks he is the eldest. Another thing is that we don't look alike.
 -->
